@@ -1,0 +1,17 @@
+{
+  "name": "import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "import.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^16.0.0",
+    "glob": "^7.1.4",
+    "glob-promise": "^3.4.0",
+    "mongodb": "^3.2.4"
+  }
+}
